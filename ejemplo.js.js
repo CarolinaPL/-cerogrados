@@ -4,6 +4,6 @@ if(confirm("estas contento en clase")){
 	alert("Que bueno por ti");
 }else{
 	//lo que no 
-	alert("Hijo de tu puta madre");
+	alert("mejor quedate en tu casa");
 }
 
